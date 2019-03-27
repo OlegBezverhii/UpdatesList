@@ -1,0 +1,7 @@
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\bin\Debug\ConsoleUpdate.exe.config
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\bin\Debug\ConsoleUpdate.exe
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\bin\Debug\ConsoleUpdate.pdb
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Debug\ConsoleUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Debug\ConsoleUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Debug\ConsoleUpdate.exe
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Debug\ConsoleUpdate.pdb
