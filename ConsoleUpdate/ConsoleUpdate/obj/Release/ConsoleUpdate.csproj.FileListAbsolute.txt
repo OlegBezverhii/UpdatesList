@@ -1,0 +1,6 @@
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\bin\Release\ConsoleUpdate.exe.config
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\bin\Release\ConsoleUpdate.exe
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\bin\Release\ConsoleUpdate.pdb
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Release\ConsoleUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Release\ConsoleUpdate.exe
+C:\Users\Oleg\source\repos\ConsoleUpdate\ConsoleUpdate\obj\Release\ConsoleUpdate.pdb
